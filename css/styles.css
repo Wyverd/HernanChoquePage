@@ -37,7 +37,7 @@ body{
 }
 /* Large profile image */
 .large-profile {
-  background: url('../images/suiseiart.jpg');
+  background: url('../images/epiclion.jpg');
   background-size: cover;
   background-position: center;
 }
@@ -59,7 +59,7 @@ font-size: 35px;
 }
 /*Color n' images for proyect containers*/
 .project-1{
-  background:url('../images/rushia.jpg' );
+  background:url('../images/finandjake.jpg' );
   background-size:cover;
 }
 .project-2{
@@ -81,7 +81,7 @@ font-size: 35px;
   background-color:#fa0707;
 }
 .project-8{
-  background:url("../images/suzuharalulu.jpg");
+  background:url("../images/robo-cop.jpg");
   background-size: cover;
 }
 .project-text{
