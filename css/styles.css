@@ -59,7 +59,7 @@ font-size: 35px;
 }
 /*Color n' images for proyect containers*/
 .project-1{
-  background:url("../images/finandjake.jpg");
+  background:url('../images/finandjake.jpg');
   background-size:cover;
 }
 .project-2{
